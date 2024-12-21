@@ -1,5 +1,5 @@
 # Ex.08 Design of Interactive Image Gallery
-## Date:
+## Date:21-12-2024
 
 ## AIM:
 To design a web application for an inteactive image gallery with minimum five images.
@@ -150,7 +150,7 @@ Publish the website in the given URL.
 </head>
 <body>
 
-    <div class="header">STRANGER THINGS</div>
+    <div class="header">TOURIST PLACE</div>
 
     <div class="gallery-container">
         <div class="gallery-item">
@@ -210,7 +210,7 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
-![alt text](<Screenshot (63).png>)
+![alt text](<Screenshot (69).png>)
 
 ![alt text](<Screenshot (64).png>)
 ![alt text](<Screenshot (65).png>)
